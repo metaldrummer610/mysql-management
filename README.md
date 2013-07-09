@@ -3,6 +3,16 @@ mysql-management
 
 A simple ruby script that makes initial DB setup with MySQL a bit easier
 
+Installation
+================
+
+To install the dependencies for this script, run the following command:
+
+`
+bundle config build.mysql2 --srcdir=/usr/local/mysql/include
+bundle install
+`
+
 Example Usage
 ================
 
