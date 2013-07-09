@@ -8,10 +8,10 @@ Installation
 
 To install the dependencies for this script, run the following command:
 
-`
+```
 bundle config build.mysql2 --srcdir=/usr/local/mysql/include
 bundle install
-`
+```
 
 Example Usage
 ================
